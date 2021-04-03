@@ -1,7 +1,7 @@
 RegisterCommand("help", function()
-    msg("Discord: https://discord.gg/rNM8WkJsaX")
-    msg("Website: Coming Soon...")
-    msg("Do not RP on this Server!!")
+    msg("Discord: Discord-Link")
+    msg("Website: Website-Link")
+    msg("Teamspeak: Teamspeak-Link")
 end, false)
 
 function msg(text)
